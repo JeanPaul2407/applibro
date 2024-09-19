@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color backcolor
+color black
+color subtitle
+color titlecolor
+color white
+drawable baseline_attach_money_24
+drawable baseline_book_24
+drawable baseline_library_books_24
+drawable baseline_menu_book_24
+drawable baseline_numbers_24
+drawable baseline_person_search_24
+drawable baseline_save_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id etcodigo
+id etcoste
+id etnombre
+id ibsave
+id ibsearch
+id spdisponibilidad
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string app_users
+style Base.Theme.AppUserSQLite
+style Theme.AppUserSQLite
+xml backup_rules
+xml data_extraction_rules

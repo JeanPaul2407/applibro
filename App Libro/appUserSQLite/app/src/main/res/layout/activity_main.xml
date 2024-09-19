@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="@color/white">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Libreria Virtual"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:background="@color/backcolor"
+        android:layout_marginTop="10dp"
+        android:padding="20dp"
+        android:textColor="@color/titlecolor"
+        />
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/baseline_menu_book_24"
+        android:layout_gravity="center"
+        />
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Nombre del Libro"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textStyle="bold"
+        />
+    <EditText
+        android:id="@+id/etnombre"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:hint="Ingrese Nombre"
+        android:gravity="center"
+        android:inputType="textEmailAddress"
+        android:drawableStart="@drawable/baseline_book_24"
+        />
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Codigo del Libro"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textStyle="bold"
+        />
+    <EditText
+        android:id="@+id/etcodigo"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:hint="Ingrese Codigo"
+        android:gravity="center"
+        android:drawableStart="@drawable/baseline_numbers_24"
+        />
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Valor Libro"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textStyle="bold"
+        />
+    <EditText
+        android:id="@+id/etcoste"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:hint="Ingrese el Valor"
+        android:gravity="center"
+        android:drawableStart="@drawable/baseline_attach_money_24"
+        />
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Disponibilidad"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textStyle="bold"
+        />
+    <Spinner
+        android:id="@+id/spdisponibilidad"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+    />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        >
+        <ImageButton
+            android:id="@+id/ibsave"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/baseline_save_24"
+            />
+
+        <ImageButton
+            android:id="@+id/ibsearch"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/baseline_person_search_24"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backcolor">#2196F3</color>
+    <color name="black">#43000000</color>
+    <color name="subtitle">#04598F</color>
+    <color name="titlecolor">#0B20DA</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">appUserSQLite</string>
+    <string name="app_users">DBLIBRARY</string>
+    <style name="Base.Theme.AppUserSQLite" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.AppUserSQLite" parent="Base.Theme.AppUserSQLite"/>
+</resources>

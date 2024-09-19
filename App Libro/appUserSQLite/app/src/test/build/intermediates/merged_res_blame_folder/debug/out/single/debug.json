@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/drawable_baseline_numbers_24.xml.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/drawable/baseline_numbers_24.xml"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/drawable_baseline_book_24.xml.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/drawable/baseline_book_24.xml"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/drawable_baseline_menu_book_24.xml.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/drawable/baseline_menu_book_24.xml"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/drawable_baseline_save_24.xml.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/drawable/baseline_save_24.xml"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/drawable_baseline_attach_money_24.xml.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/drawable/baseline_attach_money_24.xml"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/drawable_baseline_library_books_24.xml.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/drawable/baseline_library_books_24.xml"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/drawable_baseline_person_search_24.xml.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/drawable/baseline_person_search_24.xml"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/xml_backup_rules.xml.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.progmoviles.appusersqlite.app-merged_res-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.progmoviles.appusersqlite.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    }
+]
